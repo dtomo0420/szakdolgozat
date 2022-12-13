@@ -1,0 +1,2 @@
+# szakdolgozat
+gazdaságinformatikus alapszak szakdolgozat
